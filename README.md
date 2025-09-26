@@ -12,3 +12,10 @@ Discuss all programming languages and tools used in this project. Ex: Python, SQ
 
 #Files Used
 List the files used in the project
+
+## Additional Information
+You can **bold text** with double astericks on either side of string. *italics* is just one set of astericks before/after string. ***Three astericks bolds & italics***
+To write things in a list, you use a hyphen
+- For example
+- Like this?
+- I think.
