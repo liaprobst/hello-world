@@ -16,6 +16,14 @@ List the files used in the project
 # Links Used
 I believe you use brackets?
 
+# How to Run the Program
+Hello_World/
+└── 
+    │── README.md
+    │── pgmname1.R
+    │── filename1.csv
+    │── examples.html
+
 ## Additional Information
 You can **bold text** with double astericks on either side of string. *italics* is just one set of astericks before/after string. ***Three astericks bolds & italics***
 To write things in a list, you use a hyphen
