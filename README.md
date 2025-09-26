@@ -1,6 +1,11 @@
 # My First Repository
 This is a sample of a README.md file that can be used for my future projects. 
 
+## T
+
+- [Project Title](#Project-Title)
+- [How to Run the Program](#How-to-Run-the-Program)
+
 # Project Title
 Hello World Sample - My First Repository
 
